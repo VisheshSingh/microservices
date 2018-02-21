@@ -1,0 +1,5 @@
+com\vishesh\ms\carmcs\AppConfig$JerseyConfig.class
+com\vishesh\ms\carmcs\rest\CarRest.class
+com\vishesh\ms\carmcs\App.class
+com\vishesh\ms\carmcs\AppConfig.class
+com\vishesh\ms\carmcs\domain\Car.class
